@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://agitated-yonath-d9c445.netlify.com/"
 languageCode = "en-us"
 title = "The Matrix"
 theme = "lekh"
