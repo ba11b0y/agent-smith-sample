@@ -1,4 +1,4 @@
 [submodule "themes/lekh"]
 	path = themes/lekh
-	url = git@github.com:invinciblycool/lekh
+	url = https://github.com/invinciblycool/lekh.git
 	branch = master
