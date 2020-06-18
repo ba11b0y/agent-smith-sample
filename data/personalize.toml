@@ -11,6 +11,8 @@ Resume = ""
 # Sets the number of posts to display on the front page
 PostLimit = 4
 
+GoatCounterCode = ""
+
 [[profiles]]
 name = "GitHub"
 url = "https://github.com/invinciblycool"
@@ -26,5 +28,3 @@ url = "https://www.goodreads.com/user/show/91520565-rahul-tiwari"
 [[profiles]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/rahul-tiwari-43708b128/"
-
-GoatCounterCode = ""
