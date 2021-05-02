@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Matrix</title>
-    <link>https://agitated-yonath-d9c445.netlify.com/posts/</link>
-    <description>Recent content in Posts on The Matrix</description>
+    <title>Posts on Example Lekh Site</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Example Lekh Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2003 00:00:00 +0000</lastBuildDate><atom:link href="https://agitated-yonath-d9c445.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Nov 2003 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Matrix Revolutions</title>
-      <link>https://agitated-yonath-d9c445.netlify.com/posts/post-03/</link>
+      <link>https://example.com/posts/post-03/</link>
       <pubDate>Wed, 05 Nov 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://agitated-yonath-d9c445.netlify.com/posts/post-03/</guid>
+      <guid>https://example.com/posts/post-03/</guid>
       <description>The third installment&amp;hellip;.</description>
     </item>
     
     <item>
       <title>The Matrix Reloaded</title>
-      <link>https://agitated-yonath-d9c445.netlify.com/posts/post-02/</link>
+      <link>https://example.com/posts/post-02/</link>
       <pubDate>Wed, 07 May 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://agitated-yonath-d9c445.netlify.com/posts/post-02/</guid>
+      <guid>https://example.com/posts/post-02/</guid>
       <description>The sequel&amp;hellip;..</description>
     </item>
     
     <item>
       <title>The Matrix</title>
-      <link>https://agitated-yonath-d9c445.netlify.com/posts/post-01/</link>
+      <link>https://example.com/posts/post-01/</link>
       <pubDate>Wed, 31 Mar 1999 00:00:00 +0000</pubDate>
       
-      <guid>https://agitated-yonath-d9c445.netlify.com/posts/post-01/</guid>
+      <guid>https://example.com/posts/post-01/</guid>
       <description>The inception&amp;hellip;..</description>
     </item>
     
